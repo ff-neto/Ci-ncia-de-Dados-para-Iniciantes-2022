@@ -34,5 +34,8 @@ dados_csv.index
 
 
 # -----------------------------------------------------
-# filtar a coluna 
+# filtar uma coluna 
 dados_csv['Name']
+
+# filtar várias coluna
+dados_csv[['Name', 'Wage','Nationality']]
