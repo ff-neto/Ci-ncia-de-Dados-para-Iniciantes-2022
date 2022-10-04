@@ -9,14 +9,14 @@ df
 
 
 # -----------------------------------------------------
-# filtar: 3 quartos 
+# filtrar: 3 quartos 
 filter1 = df.loc[df['Rooms'] == 3]
 
 filter1
 
 
 # -----------------------------------------------------
-# filtar: 3 quartos e casa
+# filtrar: 3 quartos e casa
 filter2 = df.loc[(df['Rooms'] == 3) & (df['Type'] == 'h')]
 
 filter2
