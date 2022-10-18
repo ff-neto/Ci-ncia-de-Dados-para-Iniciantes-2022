@@ -17,5 +17,5 @@ df = df.loc[(df['Sex'] == 'female') & (df['Pclass'] == 1) & (df['Survived'] == 1
 
 df
 
-# salvar o arquivo em cdv
+# salvar o arquivo em csv
 df.to_csv('titanic_result.csv', index = False)
