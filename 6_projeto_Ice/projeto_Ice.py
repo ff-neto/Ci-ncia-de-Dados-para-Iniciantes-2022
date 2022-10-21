@@ -16,7 +16,6 @@ df
 result = df.sort_values('Temperature', ascending = False)
 result
 
-
 # Criar o gráfico com todos os dados e salvar em pdf. 
 plt.title('Ice cream Truck')
 
@@ -28,4 +27,3 @@ plt.plot(result['Temperature'], result['Sales'], 'r.--', label = 'US$')
 plt.legend()
 plt.savefig('icecreamSales.pdf')
 plt.show()
-
