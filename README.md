@@ -5,11 +5,11 @@
 ### <strong>Descrição</strong>
 
 <p align="center">
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" title="Python" width="60" height="60"/>
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" title="Python" width="80" height="80"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="Jupyter" width="60" height="60"/>
+    <img style="margin: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="Jupyter" width="80" height="80"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img style="margin: auto;" src="https://user-images.githubusercontent.com/60360540/197354200-423a25a3-0c58-4e87-b9c9-e5e36001603c.png" alt="Google Colab" title="Google Colab" width="120" height="70"/>
+    <img style="margin: auto;" src="https://user-images.githubusercontent.com/60360540/197354200-423a25a3-0c58-4e87-b9c9-e5e36001603c.png" alt="Google Colab" title="Google Colab" width="160" height="100"/>
     
 </p>
 <br>
